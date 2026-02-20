@@ -79,11 +79,11 @@ Peak Model (30th Simulation Run):
 - Peak traffic significantly increased buffer congestion.
 - UnloadingDeck showed high utilisation during peak periods.
 - Direction-change logic influenced queue clearance efficiency.
-- Double-deck configuration reduced average wait compared to single-deck baseline.
+- Double-deck configuration reduced the average wait compared to the single-deck baseline.
 
 ---
 
 ## Author
 
-Hope B. Dada  
-MSc Engineering Project Management
+Hope Bukunmi Dada  
+MSc. Engineering Project Management
